@@ -3,6 +3,8 @@ events
 
 events 模块由 [arale-events](https://github.com/aralejs/events) 修改而来，提供基本的事件添加、移除和触发功能。
 
+----------
+
 ## 使用说明
 
 使用 `Events` 有两种方式，一种是直接实例化：
