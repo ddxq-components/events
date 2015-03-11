@@ -1,0 +1,9 @@
+{
+  "name": "events",
+  "version": "1.0.0",
+  "description": "提供基本的事件添加、移除和触发功能。",
+  "keywords": ["infrastructure"],
+  "homepage": "http://aralejs.org/events/",
+  "author": "玉伯 <lifesinger@gmail.com>",
+  "main":"index.js"
+}
