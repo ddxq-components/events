@@ -1,4 +1,4 @@
-events
+# events
 ==========
 
 events 模块由 [arale-events](https://github.com/aralejs/events) 修改而来，提供基本的事件添加、移除和触发功能。
