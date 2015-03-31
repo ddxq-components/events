@@ -5,8 +5,8 @@
   "keywords": ["infrastructure"],
   "homepage": "http://aralejs.org/events/",
   "author": "玉伯 <lifesinger@gmail.com>",
-  "main":"index.js",
-  "scripts:":[
-    "index.js"
+  "main":"events.js",
+  "scripts":[
+    "events.js"
   ]
 }
